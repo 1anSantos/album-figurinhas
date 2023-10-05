@@ -22,10 +22,10 @@ album3.adicionarFigurinhas(9); // passou do limite total
 
 console.log(`\nVerificar Figurinhas:`);
 
-console.log(`${album1.getNome()} tem ${5} -> ${album1.verificarFigurinha(5)}`);
+console.log(`${album1.getNome()} tem ${4} -> ${album1.verificarFigurinha(4)}`);
 console.log(`${album1.getNome()} tem ${8} -> ${album1.verificarFigurinha(8)}`);
 console.log(`${album2.getNome()} tem ${10} -> ${album2.verificarFigurinha(10)}`);
-console.log(`${album2.getNome()} tem ${9} -> ${album2.verificarFigurinha(9)}`);
+console.log(`${album2.getNome()} tem ${8} -> ${album2.verificarFigurinha(8)}`);
 console.log(`${album3.getNome()} tem ${5} -> ${album3.verificarFigurinha(5)}`);
 console.log(`${album3.getNome()} tem ${9} -> ${album3.verificarFigurinha(9)}`);
 
